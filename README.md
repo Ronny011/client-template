@@ -20,6 +20,6 @@ Add-ons:
 
 To support server-side implementation, consider addding request management and wrapper, and test mocking, for example:
 
-- Ajax
+- Axios
 - React Query
 - MSW
